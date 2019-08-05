@@ -1,0 +1,9 @@
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Esibartels\source\repos\PizzaAPI\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
