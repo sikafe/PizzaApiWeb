@@ -1,2 +1,2 @@
 # Pizzaweb
-[pizza UI that connects to the API](github.com/sikafe/PizzaUI)
+[pizza UI that connects to the API](https://github.com/sikafe/PizzaUI)
